@@ -1,0 +1,1 @@
+Project for practice within HTML development, with plans to return to the project with CSS.
